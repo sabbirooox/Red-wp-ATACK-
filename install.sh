@@ -6,8 +6,7 @@ pkg install python -y
 pip install colorama
 
 echo -e "\e[1;32m[+] Downloading RED TOOLS...\e[0m"
-# নিচের লাইনে আপনার গিটহাবের সঠিক লিংক বসান
-curl -sL https://raw.githubusercontent.com/sabbiroox/YOUR-REPO-NAME/main/red_tools.py -o red_tools.py
+curl -sL https://raw.githubusercontent.com/sabbirooox/Red-wp-ATACK-/refs/heads/main/red_tools.py -o red_tools.py
 
 chmod +x red_tools.py
 
