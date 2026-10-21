@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/#!/bin/bash
 clear
 echo -e "\e[1;32m[+] Installing Requirements...\e[0m"
 pkg update -y && pkg upgrade -y
